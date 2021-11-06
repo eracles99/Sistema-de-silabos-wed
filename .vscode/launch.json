@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    {
+        "name": "Open index.html",
+        "request": "launch",
+        "type": "pwa-chrome",
+        "file": "C:\\Users\\angel\\Sistema-de-silabos-wed\\src\\index.html"
+        
+    }
+    ]
+}
